@@ -7,4 +7,4 @@
 - Roger Aquino
 - Alonso Rubio
 - Isaac Moreno
--Carlos A. Higareda
+- Carlos A. Higareda
